@@ -1,6 +1,6 @@
 # Hey there, I'm Farah! 👋
 
-### `Full-Stack Developer` · `UI/UX Designer` · `Tech Enthusiast`
+### Full-Stack Developer · UI/UX Designer · Tech Enthusiast
 
 I'm an Informatics Engineering graduate from **Gunadarma University** with a GPA of **3.64/4.00**.
 
@@ -8,14 +8,14 @@ I enjoy turning ideas into functional digital products — from designing intuit
 
 ---
 
-## ✦ A Little About Me
+## ✦ About Me
 
 - 🎓 Informatics Engineering Graduate — Gunadarma University
 - 💻 Experienced in Full-Stack Web Development and UI/UX Design
 - 🌐 Currently working on corporate website redesign and development projects
 - 🤖 Interested in AI integration and modern web technologies
 - 🎨 Enjoy combining creative design with technical problem-solving
-- 📍 Based in Depok, Indonesia
+- 📍 Depok, Indonesia
 
 ---
 
@@ -43,7 +43,7 @@ I enjoy turning ideas into functional digital products — from designing intuit
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square)
-![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
 **Design & Development Tools**
 
@@ -75,19 +75,6 @@ Corporate website redesign and development involving three official websites, fr
 **Figma · UI/UX · Usability Testing**
 
 A mobile application design project focused on user flows, wireframes, interactive prototypes, and usability improvements.
-
----
-
-## ✦ GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faranawaz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faranawaz&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=faranawaz&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
