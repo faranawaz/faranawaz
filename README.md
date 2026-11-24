@@ -101,7 +101,7 @@ GPA: 3.64/4.00 | Graduated 2026
 
 ### 🌐 Connect With Me
 
-- **LinkedIn:** Add your LinkedIn profile URL
+- **LinkedIn:** www.linkedin.com/in/faranawaz
 - **Email:** faranawaz14@gmail.com
 - **GitHub:** [@faranawaz](https://github.com/faranawaz)
 
